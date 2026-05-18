@@ -56,8 +56,8 @@ class FileRenamerApp:
         self.sort_options = [
             "기존 이름 (오름차순)", 
             "기존 이름 (내림차순)", 
-            "수정시간 (오름차순)", 
-            "수정시간 (내림차순)"
+            "수정시간 (과거순)", 
+            "수정시간 (최신순)"
         ]
         self.selected_option = tk.StringVar()
         self.selected_option.set(self.sort_options[0])
