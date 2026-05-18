@@ -38,7 +38,7 @@ exe 파일도 만들어놨습니다.
 <img width="480" height="360" alt="스크린샷 2026-05-18 183348" src="https://github.com/user-attachments/assets/8a986b06-dea1-41c1-a789-d8d0f4e33b5c" />
 
 ### 실행 성공
-<img width="980" height="360" alt="스크린샷 2026-05-18 183950" src="https://github.com/user-attachments/assets/1c68f6d9-487d-4591-adee-742cf5ff7bfb" />
+<img width="960" height="360" alt="스크린샷 2026-05-18 183950" src="https://github.com/user-attachments/assets/1c68f6d9-487d-4591-adee-742cf5ff7bfb" />
 
 ### 실행 전
 <img width="540" height="360" alt="스크린샷 2026-05-18 183840" src="https://github.com/user-attachments/assets/a536bb5c-a8f2-4efa-8062-f933dc8b8890" />
